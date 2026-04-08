@@ -53,3 +53,4 @@ ________________________________________________________________________________
 
 ### Thank you to the whole team of reviewers !
 
+Please take in conscious that lapse (and so hackatime) was only used for the falstad simulation (1 hou) but for the other steps I forgot to use it so the time wasn't counted and the Schem and PCB took me aprox 3hours
