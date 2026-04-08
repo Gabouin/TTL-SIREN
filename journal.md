@@ -1,19 +1,22 @@
-## Little journal because I forgot to use Lapse...
+# Little journal because I forgot to use Lapse...
 
+## Falstad ideas and simulation 07/04 and 08/04 --> 1h30
 First thing I made : 
 Using Falstad to try understanding active components such as transistors, helped by the week 2 guide.
 I made simple circuits and also the astable multivibrator model that was in the guide.
+I first made a first try and spent 30 minutes trying to make something but it was unsuccessful...
+Then, I made a secondond try the day after and this time it took me 1 hour before ahving something great : the logical following step : making an improved version of the atsable multivibrator ! 
 
-After that, the logical following step was to make an improved version of the atsable multivibrator ! 
+**The first try on falstad (tried other things but it was a fail) https://lapse.hackclub.com/timelapse/qOix7g-3-TwW**
 
-The first try on falstad (tried other things but it was a fail) https://lapse.hackclub.com/timelapse/qOix7g-3-TwW
+**The second try on falstad : https://is.gd/G7ro6Q (tried other things but had the good result after) https://lapse.hackclub.com/timelapse/xlNTRmFHFsBe**
 
-The second try on falstad : https://is.gd/G7ro6Q (tried other things but had the good result after) https://lapse.hackclub.com/timelapse/xlNTRmFHFsBe
-
+## KiCad Schematic making 08/04 --> 0h30
 After finishing my simulation, I went on KiCad and created a new project to start making the schematic
 It was pretty simple thanks to the wiring diagram made previously on Falstad. 
 
-After finishing the schem and associate each symbol to an actual footprint, I could finally go to the most interesting part : The PCB design ! 
+## KiCad PCB making 08/04 --> 1h
+After finishing the schem and associating each symbol to an actual footprint, I could finally go to the most interesting part : The PCB design ! 
 
 I have chosen the way each components would be (changed a lot of times due to my incapacity of making choices...) and started the wiring process.
 I made 4 try to wire everything before having what seemed correct to me : 
@@ -22,7 +25,7 @@ I made 4 try to wire everything before having what seemed correct to me :
 
 WOW the whole thing was almost finished ! 
 
-#### Although, it was missing the MOST IMPORTANT PART : the **silckscreen** !!
+#### Although, it was missing the MOST IMPORTANT PART : the **silckscreen** !! 08/04 --> 1h
 
 It was a fun moment choosing the design and I ended up doing something pretty simple with the Hack Club logo (we represent of course), police-badge images, outlines, my website url everywhere (little publicity in passing), and the name of the board (I found a pretty font !!)
 
