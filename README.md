@@ -1,4 +1,6 @@
 # RESOLUTION-ACTIVE-COMPONENTS
+__________________________________________________
+## FALSTAD SCHEM
 
 First schem on falstad, using a transistor, a switch, an led and resistors : https://is.gd/2Mpvr5
 
@@ -11,6 +13,17 @@ I also made an astable multivibrator : https://is.gd/lMH7cU (copied it from the 
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-I tried to make something but it was a fail : https://is.gd/1V9Mmp 
 
-https://lapse.hackclub.com/timelapse/qOix7g-3-TwW
+After that, the logical following step was to make an improved version of the atsable multivibrator ! 
+
+The first try on falstad (tried other things but it was a fail) https://lapse.hackclub.com/timelapse/qOix7g-3-TwW
+
+The second try on falstad : https://is.gd/G7ro6Q (tried other things but had the good result after) https://lapse.hackclub.com/timelapse/xlNTRmFHFsBe
+
+<img width="835" height="559" alt="image" src="https://github.com/user-attachments/assets/c58bd3b4-1b21-4f40-b8e2-e9be89f87774" />
+
+<img width="821" height="543" alt="Capture d&#39;écran 2026-04-08 153453" src="https://github.com/user-attachments/assets/d0f7bb88-7165-45e0-964c-d20ea1e44246" />
+
+My final TTL circuit is basicaly an astable multivibrator that is meant to look like a **police siren** !
+
+## PCB DESIGN
