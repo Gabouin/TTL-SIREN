@@ -20,9 +20,7 @@ The first try on falstad (tried other things but it was a fail) https://lapse.ha
 
 The second try on falstad : https://is.gd/G7ro6Q (tried other things but had the good result after) https://lapse.hackclub.com/timelapse/xlNTRmFHFsBe
 
-<img width="835" height="559" alt="image" src="https://github.com/user-attachments/assets/c58bd3b4-1b21-4f40-b8e2-e9be89f87774" />
-
-<img width="821" height="543" alt="Capture d&#39;écran 2026-04-08 153453" src="https://github.com/user-attachments/assets/d0f7bb88-7165-45e0-964c-d20ea1e44246" />
+![astable gif](https://github.com/user-attachments/assets/3a7efbe8-ae42-4320-8a09-c7cf85e7c0d8)
 
 My final TTL circuit is basicaly an astable multivibrator that is meant to look like a **police siren** !
 
