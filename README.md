@@ -18,11 +18,13 @@ After that, the logical following step was to make an improved version of the at
 
 The first try on falstad (tried other things but it was a fail) https://lapse.hackclub.com/timelapse/qOix7g-3-TwW
 
-The second try on falstad : https://is.gd/G7ro6Q (tried other things but had the good result after) https://lapse.hackclub.com/timelapse/xlNTRmFHFsBe
+The second try on falstad: https://is.gd/G7ro6Q (tried other things but had the good result after)https://lapse.hackclub.com/timelapse/xlNTRmFHFsBe
 
 ![astable gif](https://github.com/user-attachments/assets/3a7efbe8-ae42-4320-8a09-c7cf85e7c0d8)
 
+The two transistors alternately switch on and off because when one transistor turns on, it prevents the other from conducting by pulling its base voltage low. The capacitors charge and discharge through the resistors, creating a timing delay that makes the transistors switch states repeatedly, causing the LEDs to blink back and forth, like a siren.
 My final TTL circuit is basicaly an astable multivibrator that is meant to look like a **police siren** !
+I choose to make that because I was stuck looking for an idea and ended up having this popping in my head and I tought it would be fun to add in a 3D printed translucent enclosure to make maybe a real police flashing light for cosplay.
 
 ## SCHEM DESIGN
 
